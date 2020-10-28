@@ -6,8 +6,8 @@ import threading #kill timer
 
 GM = "+15192228170"
 #Tokens for Twilio
-account_sid = 'ACaac1efae2287878f8482161bbba5c1a9'
-auth_token = '18620312c75b2c747fcd385d20c01ab5'
+account_sid = ''
+auth_token = ''
 print("Tokens Added")
   
 #SQL Connection
